@@ -4,15 +4,15 @@ A LINE bot that uses the Bogomolnaia-Moulin algorithm to make fair, envy-free as
 
 ## Features
 
-- 🤖 Invite to any LINE group chat
-- 🎯 Fair assignment using proven algorithms
-- 📊 Transparent probability distributions
-- 🎲 Randomized final assignments
-- 📱 Easy-to-use chat interface
+- Invite to any LINE group chat
+- Fair assignment using proven algorithms
+- Transparent probability distributions
+- Randomized final assignments
+- Easy-to-use chat interface
 
 ## How It Works
 
-The bot implements the **Bogomolnaia-Moulin algorithm** (also known as the probabilistic serial rule), which:
+The bot implements the **Bogomolnaia-Moulin algorithm** from market design theory, which:
 
 1. **Collects preferences** from all group members
 2. **Simulates an "eating" process** where everyone consumes their top choices simultaneously
