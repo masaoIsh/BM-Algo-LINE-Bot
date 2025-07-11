@@ -1,0 +1,8 @@
+# LINE Bot Credentials
+# Get these from https://developers.line.biz/
+LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
+LINE_CHANNEL_SECRET=your_channel_secret_here
+
+# Optional: Flask settings
+FLASK_ENV=development
+FLASK_DEBUG=True 
